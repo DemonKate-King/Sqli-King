@@ -7,7 +7,7 @@ Tool được auto setup sẵn rồi
 <p align="center">
   </a>
   <a href="psqli.sh">
-     <img src="http://link.photo.talk.zdn.vn/photolinkv2/720/aHR0cHM6Ly9vcGVuZ3JhcGguZ2l0aHViYXNzZXRzLmNvbS80ZGI4MTBjMjk0NTcwYjQ3N2E3YzgxNzg0YWJjMGNhN2YzZDExZjcwZjdjZDMzYjM0NzljMjE3OGQyNTIwYjY2L0RlbW9uS2F0ZS1LaW5nL1NxbGktS2luZw==" height="30" width="210">
+     <img src="http://link.photo.talk.zdn.vn/photolinkv2/720/aHR0cHM6Ly9vcGVuZ3JhcGguZ2l0aHViYXNzZXRzLmNvbS80ZGI4MTBjMjk0NTcwYjQ3N2E3YzgxNzg0YWJjMGNhN2YzZDExZjcwZjdjZDMzYjM0NzljMjE3OGQyNTIwYjY2L0RlbW9uS2F0ZS1LaW5nL1NxbGktS2luZw==" height="200" width="200">
   </a>
 </h2>
 </p>
