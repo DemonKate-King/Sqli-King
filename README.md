@@ -82,5 +82,6 @@ hoangdev$ cd Sqli-King
 hoangdev$ bash sqlhacked.sh
 hoangdev$ bash sqlhacked.sh s #untuk string based injection only
 hoangdev$ for termux and lunix
-
+shell free for windows and android: https://shell.cloud.google.com/?show=ide%2Cterminal
+buymeacoffee:https://www.buymeacoffee.com/HoangDeveloper?new=1
 psqli* is licensed under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
