@@ -77,10 +77,10 @@ Tool được auto setup sẵn rồi
 ### Instalasi
   ```bash
 hoangdev$ pkg install bash curl git
-hoangdev$ git clone https://github.com/Agressiv1njector/psqli-pro
-hoangdev$ cd psqli-pro
-hoangdev$ bash psqli.sh
-hoangdev$ bash psqli.sh s #untuk string based injection only
+hoangdev$ git clone https://github.com/DemonKate-King/Sqli-King
+hoangdev$ cd Sqli-King
+hoangdev$ bash sqlhacked.sh
+hoangdev$ bash sqlhacked.sh s #untuk string based injection only
 hoangdev$ for termux and lunix
 
 psqli* is licensed under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
