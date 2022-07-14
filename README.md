@@ -2,12 +2,12 @@
 Powerfull Automatic Sql injection Tools Pack
 Tool được auto setup sẵn rồi
 <h1 align="center">
-  <img src="https://i.ibb.co/LYnKqpr/logopsqli.png"></h1>
+  <img src="https://i.imgur.com/IHyWrKr.jpg"></h1>
    <h2 align="center">Fast Automatic Sql injection, SQLi Dumper<br>URL Fuzzer, Dork Tools & cracking tools
 <p align="center">
   </a>
   <a href="psqli.sh">
-     <img src="https://i.ibb.co/br5DH3z/1586858881-picsay.jpg" height="30" width="210">
+     <img src="http://link.photo.talk.zdn.vn/photolinkv2/720/aHR0cHM6Ly9vcGVuZ3JhcGguZ2l0aHViYXNzZXRzLmNvbS80ZGI4MTBjMjk0NTcwYjQ3N2E3YzgxNzg0YWJjMGNhN2YzZDExZjcwZjdjZDMzYjM0NzljMjE3OGQyNTIwYjY2L0RlbW9uS2F0ZS1LaW5nL1NxbGktS2luZw==" height="30" width="210">
   </a>
 </h2>
 </p>
