@@ -80,7 +80,7 @@ hoangdev$ pkg install bash curl git
 hoangdev$ git clone https://github.com/DemonKate-King/Sqli-King
 hoangdev$ cd Sqli-King
 hoangdev$ bash sqlhacked.sh
-hoangdev$ bash sqlhacked.sh s #untuk string based injection only
+hoangdev$ bash sqlhacked.sh  #untuk string based injection only
 hoangdev$ for termux and lunix
 shell free for windows and android: https://shell.cloud.google.com/?show=ide%2Cterminal
 buymeacoffee:https://www.buymeacoffee.com/HoangDeveloper?new=1
